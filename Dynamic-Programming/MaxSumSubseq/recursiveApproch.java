@@ -16,6 +16,7 @@
 // or should not be included in the subseq.
 //For each of that condition we will check for other elements too in the recursive approach
 //Thus the recursion tree formed will have 2 raised to n possibilities
+//I've uploaded an image explaining an example of 1,8,3 in the closed issue.
 import java.util.Scanner;
 public class msis {
     public static void main(String[] args) {
