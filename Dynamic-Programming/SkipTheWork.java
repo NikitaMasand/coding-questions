@@ -1,3 +1,10 @@
+/*
+Given an array A[ ] denoting the time taken to complete N tasks, determine the minimum amount of time 
+required to finish the tasks considering that you can skip any task, 
+but skipping two consecutive tasks is forbidden.
+*/
+
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
